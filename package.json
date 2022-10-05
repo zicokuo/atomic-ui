@@ -1,0 +1,7 @@
+{
+  "name": "@components-studio/null.alpinejs-l8v3fqcg",
+  "version": "0.0.1",
+  "scripts": {
+    "serve": "npx cso-cli@latest serve e6zYCWrwVTKDjfWS8Tsf --open"
+  }
+}

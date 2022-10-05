@@ -1,2 +1,5 @@
-# atomic-ui
-Created with Components.studio
+# AlpineJS Starter Kit
+
+### Links
+
+- [GitHub](https://github.com/alpinejs/alpine)

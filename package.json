@@ -1,7 +1,27 @@
 {
-  "name": "@components-studio/null.alpinejs-l8v3fqcg",
-  "version": "0.0.1",
+  "name": "atomic-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zicokuo/atomic-ui.git",
+  "author": "Zico <21520993@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "storybook": "^6.5.15"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.7",
+    "@storybook/addon-actions": "^6.5.15",
+    "@storybook/addon-essentials": "^6.5.15",
+    "@storybook/addon-links": "^6.5.15",
+    "@storybook/addon-postcss": "^2.0.0",
+    "@storybook/builder-webpack4": "^6.5.15",
+    "@storybook/manager-webpack4": "^6.5.15",
+    "@storybook/web-components": "^6.5.15",
+    "babel-loader": "^8.3.0",
+    "lit-html": "^2.5.0"
+  },
   "scripts": {
-    "serve": "npx cso-cli@latest serve e6zYCWrwVTKDjfWS8Tsf --open"
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
   }
 }
